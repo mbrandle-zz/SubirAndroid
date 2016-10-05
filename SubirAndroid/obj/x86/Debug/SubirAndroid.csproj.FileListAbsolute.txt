@@ -1,0 +1,10 @@
+c:\users\mario\documents\visual studio 2010\Projects\SubirAndroid\SubirAndroid\bin\Debug\SubirAndroid.exe
+c:\users\mario\documents\visual studio 2010\Projects\SubirAndroid\SubirAndroid\bin\Debug\SubirAndroid.pdb
+c:\users\mario\documents\visual studio 2010\Projects\SubirAndroid\SubirAndroid\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mario\documents\visual studio 2010\Projects\SubirAndroid\SubirAndroid\obj\x86\Debug\SubirAndroid.exe
+c:\users\mario\documents\visual studio 2010\Projects\SubirAndroid\SubirAndroid\obj\x86\Debug\SubirAndroid.pdb
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\SubirAndroid\SubirAndroid\obj\x86\Debug\SubirAndroid.exe
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\SubirAndroid\SubirAndroid\obj\x86\Debug\SubirAndroid.pdb
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\SubirAndroid\SubirAndroid\bin\Debug\SubirAndroid.exe
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\SubirAndroid\SubirAndroid\bin\Debug\SubirAndroid.pdb
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\SubirAndroid\SubirAndroid\obj\x86\Debug\SubirAndroid.csprojResolveAssemblyReference.cache
